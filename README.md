@@ -1,5 +1,5 @@
 
-![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&width=450&lines=Hello+there%2C+I'm+Manidu+Dinusha+%F0%9F%91%8B;from+Sri+Lanka+%F0%9F%98%8A;Seeking+to+develop+captivating+open-source+projects+%F0%9F%91%80)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" style="Padding:20px" width="300" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
